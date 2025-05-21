@@ -59,7 +59,59 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
  <a href="https://devjoao-victor.github.io/html-css/exercicios/ex019/seletor01.html">Executar o exercicio 019
 
- <a href="https://devjoao-victor.github.io/html-css/exercicios/ex025/form001.html">Executar o exercicio 025
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex020/hover.html">Executar o exercicio 020a
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex020/links.html">Executar o exercicio 020b
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex020/pseudoclasse.html">Executar o exercicio 020c
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex021/caixa01.html">Executar o exercicio 021a
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex021/caixa02.html">Executar o exercicio 021b
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex021/caixa03.html">Executar o exercicio 021c
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex022/fundo001.html">Executar o exercicio 022a
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex022/fundo002.html">Executar o exercicio 022b
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex022/fundo003.html">Executar o exercicio 022c
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex022/fundo004.html">Executar o exercicio 022d
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex022/fundo005.html">Executar o exercicio 022e
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex022/fundo006.html">Executar o exercicio 022f
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex022/fundo007.html">Executar o exercicio 022g
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex023/tabela001.html">Executar o exercicio 023a
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex023/tabela002.html">Executar o exercicio 023b
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex023/tabela003.html">Executar o exercicio 023c
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex023/tabela004.html">Executar o exercicio 023d
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex023/tabela005.html">Executar o exercicio 023e
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex023/tabela006.html">Executar o exercicio 023f
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex024/iframe001.html">Executar o exercicio 024a
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex024/iframe002.html">Executar o exercicio 024b
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex024/iframe003.html">Executar o exercicio 024c
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex024/iframe004.html">Executar o exercicio 024d
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex024/iframe005.html">Executar o exercicio 024e
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex024/iframe006.html">Executar o exercicio 024f
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex025/form001.html">Executar o exercicio 025a
+
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex025/form002.html">Executar o exercicio 025b
 
 
 
