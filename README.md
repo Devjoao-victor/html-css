@@ -131,5 +131,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
  <a href="https://devjoao-victor.github.io/html-css/exercicios/ex026/mq001/index.html">Executar o exercicio 026a
 
+ <a href="https://devjoao-victor.github.io/html-css/exercicios/ex026/mq002/index.html">Executar o exercicio 026b
+
 
 
