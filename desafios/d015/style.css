@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+main {
+    position: relative;
+    height: 100vh;
+    background-color: #002133;
+    background-image: linear-gradient(10deg,#000002,#002133, #243D51);
+}
+
+
+#texto {
+    font-family:'IBM Plex Sans';
+    position: absolute;
+    transform: translate(50%, 50%);
+    top: 270px;
+    left: -111px;
+}
+
+h1 {
+    font-family: 'Playfair Display';
+    font-size: 1.5em;
+    font-weight: 500;
+    position: absolute;
+    transform: translate(50%, 50%);
+    top: 225px;
+    left: 65px;
+}
+
+section{
+    border-radius: 15px;
+    transform: translate(40%, 7%);
+    position: absolute;
+    width: 280px;
+    height: 525px;
+    background-color: white;
+    background-image: url(dark-city-background-360rrxj5ajr8ecyt.jpg);
+    background-size: 450px;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+#label1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 3px;
+}
+
+label svg { 
+    transform: translate(-3%,23%);
+}
+
+#email {
+    width: 210px;
+    padding: 10px;
+}
+
+#cemail {
+    border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(10deg,#000002,#002133, #243D51);
+    top: 295px;
+    left: -123px;
+    transform: translate(50%, 50%);
+    position: absolute;
+}
+
+#csenha {
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(10deg,#000002,#002133, #243D51);
+    top: 343px;
+    left: -125px;
+    transform: translate(50%, 50%);
+    position: absolute;
+}
+
+#chave{
+    transform: translate(-10%, 30%);
+}
+
+#senha {
+    width: 212px;
+    padding: 10px;
+}
+
+#entrar {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 5px;
+    padding-top: 10px;
+    text-align: center;
+    background-color: #002133;
+    position: absolute;
+    width: 265px;
+    height: 30px;
+    top: 390px;
+    left: -125px;
+    transform: translate(50%, 50%);
+    cursor: pointer;
+}
+
+#entrar:hover {
+    transition: 0.5s;
+    background-color: #627e8d;
+    color: black;
+}
+
+#esqueci {
+    font-size: 1em;
+    border-radius: 5px;
+    position: absolute;
+    transform: translate(50% , 50%);
+    width: 242px;
+    text-align: center;
+    padding: 10px;
+    top: 445px;
+    left: -123px;
+    cursor: pointer;
+}
+
+#esqueci:hover {
+    text-decoration: underline;
+}
+
