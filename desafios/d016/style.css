@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 .container {
-    height: 100vh;
+    min-height: 100vh;
     width: 96vw;
     display: grid;
     grid-template-rows: 100px 40px 140px 140px 40px;
